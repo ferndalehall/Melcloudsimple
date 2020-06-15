@@ -1,0 +1,17 @@
+MANIFEST.in
+README.md
+setup.py
+Melcloudsimple.egg-info/PKG-INFO
+Melcloudsimple.egg-info/SOURCES.txt
+Melcloudsimple.egg-info/dependency_links.txt
+Melcloudsimple.egg-info/top_level.txt
+src/Melcloudsimple/Melcloudsimple.py
+src/Melcloudsimple/__init__.py
+src/Melcloudsimple/example/Melprog.py
+src/Melcloudsimple/images/2020-04-20.svg
+src/Melcloudsimple/images/power.svg
+src/Melcloudsimple/scripts/2020-04-20
+src/Melcloudsimple/scripts/day.plot
+src/Melcloudsimple/scripts/hist.data
+src/Melcloudsimple/scripts/hist.plot
+src/Melcloudsimple/scripts/hist.sh
