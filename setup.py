@@ -34,5 +34,6 @@ setuptools.setup(
     packages=["Melcloudsimple"],
 	package_dir={"Melcloudsimple":'src/Melcloudsimple'},
 	package_data = {"Melcloudsimple": ["images/*.svg", "scripts/*", "example/Melprog.py"],},
+	depends=['requests']
 
 )
