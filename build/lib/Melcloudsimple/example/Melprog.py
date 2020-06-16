@@ -1,5 +1,6 @@
 '''
 Created on 25 Apr 2020
+Copyright (c) 2020 ferndale-hall.co.uk
 
 @author: jpickford
 '''
